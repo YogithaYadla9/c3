@@ -32,8 +32,7 @@
 }
 nav {
 background-position: 1%;
-    /* background-image: url(../../assets/images/credt.jpg); */
-    background-color: blueviolet;
+    background-image: url(../../assets/images/credt.jpg);
 
   background-repeat: no-repeat,;
 }
