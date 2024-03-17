@@ -1,6 +1,9 @@
 {
   "routes": [
+    "/browseCards",
+    "/compare",
     "/home",
-    "/selection"
+    "/selection",
+    "/wallet"
   ]
 }
