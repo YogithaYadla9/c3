@@ -30,6 +30,13 @@ if(this.loginID =='guest'){
  logOut(){
  this.router.navigate(['/home'])
  }
+ toBrowsCards(){
+  this.router.navigate(['/browseCards'])
+  }
+
+  wallet(){
+    this.router.navigate(['/wallet'])
+    }
 
  selectedCredit = 'Zolve aspire';
  selectedCard(value:string): void {
