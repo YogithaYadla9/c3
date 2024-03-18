@@ -160,7 +160,7 @@ margin-top: 5%;
   }
   .black-box {
     position: relative;
-    border: 2px solid black;
+   
     height: 200px;
     margin: 30px;
     width: 30%;
@@ -168,7 +168,7 @@ margin-top: 5%;
   
   .gray-box {
     position: relative;
-    border: 2px solid black;
+  
     height: 200px;
     width: 30%;
     left: 100px;
@@ -176,7 +176,7 @@ margin-top: 5%;
   }
   .gray-box1 {
     position: relative;
-    border: 2px solid black;
+    
     height: 200px;
     width: 30%;
     left: 150px;
@@ -184,7 +184,7 @@ margin-top: 5%;
   }
   .gray-box2 {
     position: relative;
-    border: 2px solid black;
+    
     height: 200px;
     width: 30%;
     left: 200px;

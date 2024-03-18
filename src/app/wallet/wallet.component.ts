@@ -27,7 +27,7 @@ export class WalletComponent {
   }
   
   }
-  
+ 
    logOut(){
    this.router.navigate(['/home'])
    }

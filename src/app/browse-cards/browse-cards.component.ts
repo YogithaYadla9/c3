@@ -27,6 +27,13 @@ export class BrowseCardsComponent {
   }
   
   }
+  toBrowsCards(){
+    this.router.navigate(['/browseCards'])
+    }
+  
+    wallet(){
+      this.router.navigate(['/wallet'])
+      }
   
    logOut(){
    this.router.navigate(['/home'])

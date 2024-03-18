@@ -26,6 +26,11 @@ export class ComparisionComponent {
   }
   
   }
+
+  
+    wallet(){
+      this.router.navigate(['/wallet'])
+      }
   
    logOut(){
    this.router.navigate(['/home'])
